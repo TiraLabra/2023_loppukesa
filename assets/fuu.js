@@ -1,5 +1,5 @@
 const timing = {
-    "start": {"date": "2023-05-15", "fi": "Aloitusluento", "en": "Starting lecture", "common": "16.15-18"},
+    "start": {"date": "2023-07-17", "fi": "Aloitusluento", "en": "Starting lecture", "common": "16.15-18"},
    /* "paja1": {"date": "2020-09-07", "en": "Workshop", "fi": "Paja", "common": "12-14 & 16-18 Zoom"},
     "paja2": {"date": "2020-09-08", "en": "Workshop", "fi": "Paja", "common": "12-16 Zoom"},
     "paja3": {"date": "2020-09-14", "en": "Workshop", "fi": "Paja", "common": "12-14 & 16-18 Zoom"},
